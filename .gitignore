@@ -1,5 +1,5 @@
 spectogram/Builds/*
-spectogram/JuceLibraryCode/
+spectogram/JuceLibraryCode/*
 
 ####################
 # C++
